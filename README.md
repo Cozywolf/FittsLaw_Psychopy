@@ -22,6 +22,8 @@ LabStreamingLayer (LSL) embedded which will send markers to any LabStreamingLaye
 - The response time for each trial will be exported as a .csv together with trial information and the index of difficulty (ID).
 - The cursor position can be tracked in real-time and logged as a .csv file with timestamps
 
+![Mode-examples](https://github.com/Cozywolf/FittsLaw_Psychopy/blob/master/FittsLawMode.PNG)
+
 **To Use**
 - You will need to have PsychoPy 3 installed, additionally, you will need to pip install pylsl for data streaming
 - Run "runFittsLaw.py" through Psychopy or CMD, LSL stream will be created and become avaiable when the dialogue box shows up
